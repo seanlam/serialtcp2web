@@ -1,6 +1,6 @@
 # Serial (TCP/IP) wedge to Web App (HTTP POST)
 # Tested with COGNEX Dataman 302X
-# Version 1.0
+# Version 1.01
 # Sean Lam
 
 
